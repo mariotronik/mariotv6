@@ -1,0 +1,163 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telefe.png",TELEFE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ou/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn.png",ESPN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0bu/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnhd.png",ESPN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0np/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn2.png",ESPN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0cm/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn3hd.png",ESPN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0jb/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn4hd.png",ESPN 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0jc/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espn5hd.png",ESPN 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0jd/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/espnpremium.png",ESPN PREMIUM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ke/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tntsportspremiumhd.png",TNT SPORTS PREMIUM HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0kl/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/dsportshd.png",DSPORTS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0je/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/deportes.png",DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0nr/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/htv.png",HTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0cj/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mtv.png",MTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ew/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/mimusicapopularhd.png",MI MUSICA POPULAR HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ge/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cnnvivo.png",CNN VIVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0el/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/estudiouniversal.png",ESTUDIO UNIVERSAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0bt/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/edge.png",EDGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0co/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinemax.png",CINEMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0gt/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/amchd.png",AMC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0hp/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo_plus.png",HBO+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/hbo.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ht/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tntnovelas.png",TNT NOVELAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ir/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tntsports.png",TNT SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0is/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/spacehd.png",SPACE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0iu/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/starchannel.png",STAR CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0iw/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tntserieshd.png",TNT SERIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ix/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cinecanal.png",CINECANAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0iy/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/sonyhd.png",SONY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0it/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/golden.png",GOLDEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ob/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/goldenhd.png",GOLDEN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0kp/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/filmandarts.png",FILM & ARTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0kq/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tcm.png",TCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0kr/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/vercual.png",VER CUAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ks/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/fxhd.png",FX HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0kv/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/wb.png",WB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0os/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/lifetime.png",LIFETIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ly/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/e.png",E!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0js/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/disneyjr.png",DISNEY JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0eo/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nickjr.png",NICK JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0nx/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/plinplin.png",PLIN PLIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0oi/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/babytv.png",BABY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0km/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cartoonito.png",CARTOONITO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0oa/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/cartoonnetwork.png",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ny/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/tooncast.png",TOONCAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0ju/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/telemundointernacional.png",TELEMUNDO INTERNACIONAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0jt/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/pasioneshd.png",PASIONES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0kb/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/enlace.png",ENLACE RELIGIOSO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0jw/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/vercuales.png",VER CUAL ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0jx/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/france24.png",FRANCE 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0kj/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/dw.png",DW
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0kk/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/nuestratele.png",NUESTRA TELE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0mj/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/ae.png",A&E
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0nn/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/discoverytheaterhd.png",DISCOVERY THEATER HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0cx/index.m3u8
+#EXTINF:-1 tvg-logo="http://i.tvcluboficial.com/universaltv.png",UNIVERSAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://38.210.3.64:8090/play/a0og/index.m3u8
